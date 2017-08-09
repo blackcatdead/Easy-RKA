@@ -8,8 +8,7 @@ Langkah - langkah pemakaian:
 1. Install Mysql Server atau Xampp.
 2. Jalankan service mysql
 3. Buat database kosong dgn nama "easyrka"
-4. import file easyrka.sql ke dlm database
-   Database telah siap!
+4. import file easyrka.sql ke dlm database. Database telah siap!
 
 5. Buka Visual Studio 2013.
 6. Open project Easy-RKA
